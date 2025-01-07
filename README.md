@@ -12,7 +12,7 @@ In this project, we used various health data to predict the likelihood of diabet
 
 
 ## Project Notebook 
-You can view the project notebook in the HTML file [here](./Leveraging%20Diverse%20Factors%20for%20Diabetes%20Risk%20Prediction%20Using%20Machine%20Learning%20Techniques.html).
+You can view the project notebook in the HTML file [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6007852859396323/3781274836034762/3798305873743606/latest.html).
 
 ## License
 MIT License
